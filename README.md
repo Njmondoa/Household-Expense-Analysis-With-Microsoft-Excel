@@ -24,4 +24,5 @@ I will answer:
 - `DAX`
 - `Power Query`
 - `Power Pivot`
-- `Pivot Table`
+- `Pivot Table and Chart`
+
