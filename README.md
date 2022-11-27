@@ -9,7 +9,7 @@
 
 ### Objective 🕮
 
-In this project, I Prepare, cleaned, Analyzed and Visualized Household Expenses to Identify how much 
+In this project, I Prepared, cleaned, Analyzed and Visualized Household Expenses to Identify how much 
 money is spent on daily activities and feeding using microsoft excel.
 
 I will answer:
